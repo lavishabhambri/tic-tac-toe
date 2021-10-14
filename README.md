@@ -1,6 +1,6 @@
 # tic-tac-toe
 
-Implemented a basic Tic Tac Toe game as part of WTEF team-project.
+Implemented a basic Tic Tac Toe game as part of WTEF team-project. Tic-tac-toe is a game in which two players take turns in drawing either an ' O' or an ' X' in one square of a grid consisting of nine squares. The winner is the first player to get three of the same symbols in a row.
 
 ## Link of the game 
 - Tic-tac-toe game - https://we-tictactoe.netlify.app/
